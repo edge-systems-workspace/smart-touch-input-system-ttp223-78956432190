@@ -4,7 +4,7 @@
  *
  * This program reads the digital output of a touch sensor.
  * If the sensor detects touch (LOW signal), the LED turns ON
- * and a message is printed on the Serial Monitor.
+ * and a message is printed on the Serial Monitor. 
  * Otherwise, the LED turns OFF and a different message is printed.
  *
  * @author Khushi Singh
